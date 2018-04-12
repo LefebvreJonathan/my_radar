@@ -1,0 +1,21 @@
+A == Plane (needs 6 numbers)
+  1- takeoff abscissa
+  2- ordered takeoff
+  3- landing abscissa
+  4- ordered landing
+  5- speed
+  6- takeoff time
+
+T == Tower (needs 3 numbers)
+  1- tower abscissa
+  2- ordered tower
+  3- radius
+
+D == Danger (needs at least 6 numbers)
+  1- point 1 abscissa
+  2- ordered point 1
+  3- point 2 abscissa
+  4- ordered point 2
+  5- point 3 abscissa
+  6- ordered point 3
+  ...
